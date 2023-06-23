@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "cstdio": "c",
+        "user.h": "c",
+        "limits": "c",
+        "stat.h": "c",
+        "cstdlib": "c",
+        "typeinfo": "c",
+        "types.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "param.h": "c",
+        "fs.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.intelliSenseEngine":"Tag Parser"
+}
