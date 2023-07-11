@@ -89,7 +89,8 @@ int
 allocpid() {
   int pid;
   
-  acquire(&pid_lock);  pid = nextpid;
+  acquire(&pid_lock);
+  pid = nextpid;
   nextpid = nextpid + 1;
   release(&pid_lock);
 
