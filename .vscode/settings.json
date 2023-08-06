@@ -15,7 +15,8 @@
         "syscall.h": "c",
         "defs.h": "c",
         "memlayout.h": "c",
-        "proc.h": "c"
+        "proc.h": "c",
+        "spinlock.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "C_Cpp.intelliSenseEngine":"Tag Parser"
